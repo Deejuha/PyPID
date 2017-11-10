@@ -2,6 +2,7 @@
 Discrete PID controller supporting PWM for temperature control
 
 How to use :
+
         Settings :
             1.Create instance
             2.Set kP, kI, kD and refresh time by using set_PID method
