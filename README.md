@@ -1,5 +1,11 @@
 # PyPID
-Discrete PID controller supporting PWM for temperature control
+Discrete Python PID controller supporting PWM for temperature control
+
+Python 3.6
+Michał Juszczyk, michaljuszczyk2@gmail.com
+Date : 10 november 2017
+Version : 0.1
+
 
 How to use :
 
