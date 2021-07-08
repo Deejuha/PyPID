@@ -1,5 +1,6 @@
 Hey, this repo was created some years ago before I really become software engineer.
-As always if you're looking on your code from the past you can say "Yuck! what's a badly written code"
+Purpose of this repo was to help me with some minor tasks in exercises in university.
+As always if you're looking on your code from the past you can say "Yuck! what's a badly written code".
 But hey - as everyone you have to start somehow :)
 
 
